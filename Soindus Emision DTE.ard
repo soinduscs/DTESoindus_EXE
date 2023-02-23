@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="Soindus" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Soindus Emision DTE" ExtVersion="1.0.0.24" Contdata="Soindus Consulting Ltda." Partner="Soindus Consulting Ltda." DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="Soindus Emision DTE" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="Soindus.AddOnEmisionDTE.exe" AddonSig="950299A1822ADBB744DDBA2325324469" ExeDir="X86Client">
+        <Installation>
+          <Files>
+            <File FileName="X86Client\Microsoft.Web.Services3.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\pdf.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnEmisionDTE.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnEmisionDTE.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnEmisionDTE.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.Interfaces.ProveedoresDTE.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X86Client\Microsoft.Web.Services3.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\pdf.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnEmisionDTE.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnEmisionDTE.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnEmisionDTE.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.Interfaces.ProveedoresDTE.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="Soindus.AddOnEmisionDTE.exe" AddonSig="B49D09622A31A54838F0C6A6239C6B1F" ExeDir="X64Client">
+        <Installation>
+          <Files>
+            <File FileName="X64Client\Microsoft.Web.Services3.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\pdf.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnEmisionDTE.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnEmisionDTE.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnEmisionDTE.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.Interfaces.ProveedoresDTE.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X64Client\Microsoft.Web.Services3.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\pdf.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnEmisionDTE.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnEmisionDTE.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnEmisionDTE.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.Interfaces.ProveedoresDTE.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
